@@ -1,0 +1,11 @@
+D:\visualtarea\Autosreal2\Autosreal2\bin\Debug\Autosreal2.exe.config
+D:\visualtarea\Autosreal2\Autosreal2\bin\Debug\Autosreal2.exe
+D:\visualtarea\Autosreal2\Autosreal2\bin\Debug\Autosreal2.pdb
+D:\visualtarea\Autosreal2\Autosreal2\obj\Debug\Autosreal2.csprojAssemblyReference.cache
+D:\visualtarea\Autosreal2\Autosreal2\obj\Debug\Autosreal2.Properties.Resources.resources
+D:\visualtarea\Autosreal2\Autosreal2\obj\Debug\Autosreal2.csproj.GenerateResource.cache
+D:\visualtarea\Autosreal2\Autosreal2\obj\Debug\Autosreal2.csproj.CoreCompileInputs.cache
+D:\visualtarea\Autosreal2\Autosreal2\obj\Debug\Autosreal2.exe
+D:\visualtarea\Autosreal2\Autosreal2\obj\Debug\Autosreal2.pdb
+D:\visualtarea\Autosreal2\Autosreal2\obj\Debug\Autosreal2.FrmListadeautos.resources
+D:\visualtarea\Autosreal2\Autosreal2\obj\Debug\Autosreal2.FrmAgregarAutos.resources
